@@ -1,13 +1,13 @@
 # [Bitbean](https://www.bitbean.com/)
 
-[About](https://www.bitbean.com/about/)
+[About](https://www.bitbean.com/about/) Bitbean
 
-Our [Case Studies](https://www.bitbean.com/case-studies/).
+[Our Case Studies](https://www.bitbean.com/case-studies/)
 
 [Technologies](https://www.bitbean.com/software-development-technologies/) that we use at Bitbean
 
-Our [Blog](https://www.bitbean.com/blog/).
+[Read our Blog](https://www.bitbean.com/blog/)
 
 [Inspiration Speaking](https://www.bitbean.com/ceos-speak/)
 
-The [Bitbean Podcast](https://www.bitbean.com/podcast/)
+[Bitbean Podcast](https://www.bitbean.com/podcast/)
