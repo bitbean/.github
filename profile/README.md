@@ -1,10 +1,10 @@
 # [Bitbean](https://www.bitbean.com/)
 
-[About](https://www.bitbean.com/about/) Bitbean
+[About Bitbean](https://www.bitbean.com/about/)
 
 [Our Case Studies](https://www.bitbean.com/case-studies/)
 
-[Technologies](https://www.bitbean.com/software-development-technologies/) that we use at Bitbean
+[Technologies that we use at Bitbean](https://www.bitbean.com/software-development-technologies/)
 
 [Read our Blog](https://www.bitbean.com/blog/)
 
